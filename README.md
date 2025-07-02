@@ -5,8 +5,8 @@ Adenosine-to-inosine (A-I) RNA editing is one of the most abundant post-transcri
 
 ![GA_Alun_lch](https://github.com/user-attachments/assets/55197e61-8104-4fda-a301-2c0a9f5127c3)
 
-# Article:
+## Article:
 Conghui Li, Wei Lv, Zhiwei He, Xiaoguang Pan, Yuchen Zeng, Jan Mulder, Evelina Sjöstedt, Zhiwei Huang, Wei Liu, Liangzhi Xu, Eli Eisenberg, Lin Lin, Jacob B Hansen, Jinrong Huang, Yonglun Luo, Landscape of A-I RNA editing in mouse, pig, macaque, and human brains, Nucleic Acids Research, Volume 53, Issue 11, 24 June 2025, gkaf534, https://doi.org/10.1093/nar/gkaf534
 
-# Database portal
+## Database portal
 The RNA editing data of macaque can be visualized and further analyzed on a dedicated web platform: MAIRE (mammalian A-I RNA explorer, https://maire-teal-panda.reflex.run/)
